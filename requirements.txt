@@ -71,7 +71,7 @@ opencv-python==3.4.1.15
 packaging==17.1
 pandas==0.23.0
 pandocfilters==1.4.2
-paramiko==2.4.1
+paramiko==2.10.1
 parso==0.2.0
 pickleshare==0.7.4
 Pillow==5.1.0
